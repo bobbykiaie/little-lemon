@@ -1,7 +1,10 @@
 import React from "react";
 import logo from "../Assetts/Logo.svg"
+import "./Css/Nav.css"
 
 function Nav() {
+  //update the component to use routes instead of anchor tags
+  
   return (
     <nav>
       <img src={logo} alt="Logo" />

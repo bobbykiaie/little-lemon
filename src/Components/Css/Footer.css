@@ -1,0 +1,4 @@
+footer {
+    height: calc(2 / 3 * 100vh / 3); /* Set the footer height as slightly smaller than the first section of the Main component */
+    background-color: orange; /* Add a background color for distinguishable sections */
+  }

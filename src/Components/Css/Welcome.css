@@ -1,0 +1,19 @@
+h1.restaurant-title{
+    color: #face14;
+    font: "markazi-";
+    font-family: 'Markazi Text', serif;
+    font-weight: 500;
+    font-size: 3rem;
+  }
+
+  .heading-section p {
+    color: whitesmoke;
+    font-weight: lighter;
+    padding-top: 20px;
+    opacity: 70%;
+    max-width: 300px;
+  }
+
+  .heading-section{
+    padding-top: 10%;
+  }
